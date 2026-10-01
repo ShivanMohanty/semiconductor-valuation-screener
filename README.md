@@ -42,10 +42,10 @@ The [full thesis](Micron_Technology__MU__Investment_Thesis.pdf) explains why the
 ## How to Run
 
 ```bash
-pip install pandas numpy yfinance
+pip install pandas matplotlib yfinance
 jupyter notebook RVSModel.ipynb
 ```
 
 ## Tech
 
-Python · pandas · yfinance
+Python · pandas · yfinance · matplotlib 
